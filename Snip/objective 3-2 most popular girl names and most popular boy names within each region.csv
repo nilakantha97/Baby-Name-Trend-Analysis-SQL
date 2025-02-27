@@ -1,0 +1,37 @@
+clean_region,Gender,Name,Popularity
+Mid_Atlantic,F,Jessica,1
+Mid_Atlantic,F,Ashley,2
+Mid_Atlantic,F,Jennifer,3
+Mid_Atlantic,M,Michael,1
+Mid_Atlantic,M,Matthew,2
+Mid_Atlantic,M,Christopher,3
+Midwest,F,Jessica,1
+Midwest,F,Ashley,2
+Midwest,F,Sarah,3
+Midwest,M,Michael,1
+Midwest,M,Matthew,2
+Midwest,M,Joshua,3
+Mountain,F,Jessica,1
+Mountain,F,Ashley,2
+Mountain,F,Sarah,3
+Mountain,M,Michael,1
+Mountain,M,Joshua,2
+Mountain,M,Christopher,3
+"New England",F,Jessica,1
+"New England",F,Sarah,2
+"New England",F,Emily,3
+"New England",M,Michael,1
+"New England",M,Matthew,2
+"New England",M,Christopher,3
+Pacific,F,Jessica,1
+Pacific,F,Jennifer,2
+Pacific,F,Ashley,3
+Pacific,M,Michael,1
+Pacific,M,Christopher,2
+Pacific,M,Daniel,3
+South,F,Ashley,1
+South,F,Jessica,2
+South,F,Jennifer,3
+South,M,Christopher,1
+South,M,Michael,2
+South,M,Joshua,3
